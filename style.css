@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+img {
+    max-width: 100%;
+    display: block;
+}
+
+menu {
+    width: 100%;
+    
+    background-image: url(img/1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.411);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding: 25px;
+  
+}
+
+.container {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    
+}
+.logo {
+    width: 30%;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 52px;
+}
+
+.logo h2{
+    font-size: 23px;
+    font-weight: 600;
+    color: white;
+    
+}
+.logo span{
+    font-size: 16px;
+    font-weight: 400;
+    display: block;
+   
+}
+
+.one {
+    width: 70%;
+    height: 200px;
+}
+.one ul{
+    display: flex;
+    justify-content: center;
+    margin-left: -95px;
+    
+}
+.one ul li{
+    list-style: none;
+    
+
+}
+.one ul li a{
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+    padding: 9px;
+    font-size: 15px;
+    font-weight: 500;
+   
+  
+    
+    
+}
+
+.Fast-meddile{
+    width: 100%;
+    
+    color: white;
+    text-align: center;
+}
+
+.Fast-meddile h3 {
+    font-size: 26px;
+    font-style: italic;
+    font-weight: 500;
+}
+
+
+    .Fast-meddile span {
+        width: 130px;
+        height: 3px;
+        margin: auto;
+        display: block;
+        margin-top: 10px;
+        background: #9f1b1b;
+    }
+    .Fast-meddile h1 {
+        font-size: 46px;
+        font-weight: 600;
+        margin: 34px;
+        
+        
+    }
+
+    .Fast-meddile a {
+        color: white;
+        text-decoration: none;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        background-color: #7c1731;
+        padding: 10px;
+        border-radius: 5px;
+        transition: 1.5s;
+        margin:0px 0px 0px 0px;
+    }
+        
+
+    .Fast-meddile a:hover{
+        border: 3px solid #7c1731;
+        background-color: transparent;
+        
+    }
+    /* jjjjjjjj */
+        
+    .Fast-Headder{
+        width: 100%;
+        text-align: center;
+        padding-top: 60px;
+        font-size: 22px;
+        color: black;
+        
+    }
+
+    .Fast-Headder span {
+        width: 120px;
+        height: 3px;
+        background: #790202;
+        display: block;
+        margin: auto;
+        margin-top: 9px;
+        margin-bottom: 21px;
+    }
+
+    .card {
+        width: 100%;
+        display: block;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+   .card .col-1-2{
+        width: 40%;
+        
+    }
+
+    .card .col-1-2 img {
+        width: 80%;
+        height: 200px;
+        border-radius: 5px;
+         box-shadow: 11px 14px 7px #0000007a;
+         margin-left: 20px;
+         margin-bottom: 17px;
+    }
+
+    .card .col-1-2 h2{
+        font-size: 20px;
+        margin: 21px 0px 8px 52px;
+    }
+    .card .col-1-2 p{
+        font-size: 15px;
+
+    }
+    .card .col-1-2 a{
+            text-decoration: none;
+            color: #9f1b1b;
+            margin: 16px 0px 0px 113px;
+            display: block;
+           
+    }
+
+    /* card end */
+
+    .viste-area {
+        width: 100%;
+        height: 500px;
+        background-image: url(img/4.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-color: #1767d6b8;
+        background-blend-mode: multiply;
+        padding: 150px 0;
+        margin-top: 100px;
+        color: white;
+        background-attachment: fixed;
+        position: relative;
+    }
+
+    .viste-water{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        margin-left: 77px;
+        
+       
+    }
+
+    .viste-water span{
+        width: 55px;
+        height: 3px;
+       
+        display: block;
+        margin-top: 10px;
+        background: #9f1b1b;
+        margin-bottom: 23px;
+    }
+
+    .viste-water a {
+        display: block;
+        text-decoration: none;
+        color: #fff;
+        font-size: 14px;
+        font-weight: bold;
+        margin-top: 26px;
+    }
+    /* gggggggggggggg */
+    .last-ops{
+        width: 100%;
+        margin-top: 45px;
+        display: flex;
+        margin-left: 144px;
+    }
+    
+    .last-ops .container .col-1{
+        width: 28%;
+        padding: 22px;
+        margin-left: -35px;
+    }
+    .last-ops .container .col-1 h2{
+       font-size: 20px;
+    }
+    .last-ops .container .col-1 span{
+        width: 77px;
+        height: 3px;
+       
+        display: block;
+        margin-top: 10px;
+        background: #9f1b1b;
+        margin-bottom: 23px;
+    }
+    .last-ops .container .col-1 p{
+        font-size: 12px;
+    }
+    .last-ops .container .col-1 a{
+        width: 108px;
+        height: 40px;
+       
+        text-decoration: none;
+        margin-top: 12px;
+        display: block;
+        
+    }
+
+    .last-ops .container .col-1 .sm1{
+        width: 197px;
+        height: 168px;
+       margin-bottom: 23px;
+    }
+    .last-ops .container .col-1 .bg1{
+        width: 197px;
+        height: 284px;
+       margin-bottom: 23px;
+    }
