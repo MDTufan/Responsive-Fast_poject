@@ -81,8 +81,46 @@
         font-size: 12px;
         color: black;
     }
-
+/* bbbbbbbbbbbbbbbbbbbbbbbb */
     .card .col-1-2 {
         width: 50%;
     }
+    .card .col-1-2 p{
+        font-size: 10px;
+        padding: 5px 19px 0px 12px;
+
+    }
+
+/* cccccccccccccccccccc */
+.viste-water{
+    width: 100%;
+    padding: 40px;
+    margin-left: 12px;
+}
+
+
+/* dddddddddddddddd */
+.last-ops{
+    margin-left: 97px;
+}
+.col-1 h2 {
+    font-size: 15px;
+}
+.col-1 p {
+    font-size: 11px;
+}
+.col-1 a {
+    width: 99px;
+    font-size: 12px;
+    height: 40px;
+    text-decoration: none;
+    margin-top: 19px;
+    margin-left: 6px;
+    display: block;
+}
+.col-1 .bg1 {
+    width: 197px;
+    height: 165px;
+    margin-bottom: 23px;
+}
 }
