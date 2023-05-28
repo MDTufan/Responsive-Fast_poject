@@ -149,4 +149,42 @@
                 display: block;
                
         }
+        /* vist area */
+     
+      .viste-water{
+        width: 100%;
+        padding: 50px;
+        margin-left: 12px;
+        
+       
+    }
+    /* lest oop */
+   
+    .last-ops{
+        width: 100%;
+        margin-top: 45px;
+        margin-left: 40px;
+       
+    }
+    .vip{
+        width: 100%;
+        height: 200px;
+        display: block;
+       
+    }
+    .col-1{
+        width:100%;
+        padding: 40px;
+        margin-left: -35px;
+    }
+    .col-1 .sm1{
+        width: 100%;
+        height: 250px;
+       margin-bottom:15px;
+    }
+     .col-1 .bg1{
+        width: 100%;
+        height: 284px;
+       margin-bottom: 15px;
+    }
     }
