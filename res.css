@@ -94,4 +94,59 @@
             
             
         }
+
+        /* seeeeeeeeeeeee */
+
+        .ggg{
+            height: 71px;
+        }
+        .Fast-Headder{
+            
+           font-size: 16px;
+           padding: 12px;
+           margin-top: 30px;
+            
+        
+        }
+       
+        
+
+       
+        .card {
+            width: 100%;
+            display: block;
+           
+           
+        }
+        
+       .card .col-1-2{
+            width: 100%;
+            padding: 40px;
+            
+        }
+    
+        .card .col-1-2 img {
+            width: 100%;
+           
+            border-radius: 5px;
+             box-shadow: 11px 14px 7px #0000007a;
+             margin-left: 0px;
+             
+        }
+    
+        .card .col-1-2 h2{
+            font-size: 20px;
+            margin: 28px 0px 22px 74px;
+        }
+        .card .col-1-2 p{
+            font-size: 17px;
+    
+        }
+        .card .col-1-2 a{
+                text-decoration: none;
+                color: #9f1b1b;
+                margin: 16px 0px 0px 134px;
+                display: block;
+               
+        }
     }
