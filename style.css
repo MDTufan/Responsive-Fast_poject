@@ -33,7 +33,8 @@ menu {
     height: 200px;
     display: flex;
     
-}
+} 
+
 .logo {
     width: 30%;
     padding: 0px 0px 0px 0px;
@@ -240,16 +241,20 @@ menu {
         display: flex;
         margin-left: 144px;
     }
-    
-    .last-ops .container .col-1{
+    .vip{
+        width: 100%;
+        height: 200px;
+        display: flex;
+    }
+    .col-1{
         width: 28%;
         padding: 22px;
         margin-left: -35px;
     }
-    .last-ops .container .col-1 h2{
+    .col-1 h2{
        font-size: 20px;
     }
-    .last-ops .container .col-1 span{
+   .col-1 span{
         width: 77px;
         height: 3px;
        
@@ -258,10 +263,10 @@ menu {
         background: #9f1b1b;
         margin-bottom: 23px;
     }
-    .last-ops .container .col-1 p{
+    .col-1 p{
         font-size: 12px;
     }
-    .last-ops .container .col-1 a{
+    .col-1 a{
         width: 108px;
         height: 40px;
        
@@ -271,13 +276,15 @@ menu {
         
     }
 
-    .last-ops .container .col-1 .sm1{
+    .col-1 .sm1{
         width: 197px;
         height: 168px;
        margin-bottom: 23px;
     }
-    .last-ops .container .col-1 .bg1{
+     .col-1 .bg1{
         width: 197px;
         height: 284px;
        margin-bottom: 23px;
     }
+     /* respon */
+    
