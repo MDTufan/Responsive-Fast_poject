@@ -1,0 +1,84 @@
+@media screen and (max-width: 600px) {
+    .container {
+        width: 600px;
+        height: 200px;
+        display:flex;
+        
+    }
+ .logo {
+        margin-left: 17px;
+    }
+    
+.logo h2{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    
+}
+.logo span{
+    font-size: 16px;
+    font-weight: 400;
+    display: block;
+   
+}
+
+.one {
+    width: 70%;
+    height: 200px;
+}
+.one ul{
+    display: flex;
+    justify-content: center;
+    margin-left: -95px;
+    
+}
+.one ul li{
+    list-style: none;
+    
+
+}
+.one ul li a{
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+    padding: 9px;
+    font-size: 13px;
+    font-weight: 500;
+   
+  
+    
+    
+}
+    
+   /* aaaaaaaaaaaaaaa */
+   .Fast-meddile{
+    width: 100%;
+    margin-left: -30px;
+    color: white;
+    text-align: center;
+}
+    
+.Fast-meddile h3 {
+    font-size: 23px;
+    font-style: italic;
+    font-weight: 500;
+}
+
+
+    
+    .Fast-meddile h1 {
+        font-size: 35px;
+        font-weight: 600;
+        margin: 34px;
+        
+        
+    }
+
+    .Fast-Headder {
+        width: 100%;
+        text-align: center;
+        padding-top: 60px;
+        font-size: 12px;
+        color: black;
+    }
+}

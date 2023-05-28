@@ -21,6 +21,7 @@
     }
     .logo {
         margin-left: 5px;
+        
     }
     
     .logo h2{
@@ -187,4 +188,7 @@
         height: 284px;
        margin-bottom: 15px;
     }
-    }
+
+    };
+
+   
